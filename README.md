@@ -1,7 +1,5 @@
 # <span style="color: rgb(255, 0, 0)">                   Honey Chilli Potatoes Recipe </span>
 
-## 
-
 ## <span style="color: rgb(255, 0, 0)"> Ingredients for Potatoes</span>
 
 
