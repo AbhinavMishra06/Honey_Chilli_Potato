@@ -1,36 +1,26 @@
-# <span style="color: rgb(255, 0, 0)">                   Honey Chilli Potatoes Recipe </span>
+# <span style="color: rgb(255, 0, 0)">                  Honey Chilli Potatoes Recipe </span>
 
-## <span style="color: rgb(255, 0, 0)"> Ingredients for Potatoes</span>
+![honey Chilli Potato](Honey_Chilli_Potato\honey Chilli Potato.jpg)
+
+
+
+# <span style="color: rgb(255, 0, 0)"> Ingredients for Coatting the Potatoes</span>
 
 
 
 ### <span style="color: rgb(255, 0, 0)"> 1.   3 cups potato fingers</span>
 
-### <span style="color: rgb(255, 0, 0)">2.   1 tsp garlic (lehsun) paste</span>
+### <span style="color: rgb(255, 0, 0)">2.   3-4 tbsp cornflour or maida</span>
 
-### <span style="color: rgb(255, 0, 0)">3.   2 tsp chilli powder</span>
+### <span style="color: rgb(255, 0, 0)">3.   Salt to taste</span>
 
-### <span style="color: rgb(255, 0, 0)"> 4.   5 tbsp cornflour</span>
+### <span style="color: rgb(255, 0, 0)">4.   1 tsp red chilli powder</span>
 
-### <span style="color: rgb(255, 0, 0)">5.   Salt to taste</span>
-
-### <span style="color: rgb(255, 0, 0)">6.   1 tbsp oil</span>
-
-### <span style="color: rgb(255, 0, 0)">5.   1 tbsp finely chopped garlic (lehsun)</span>
-
-### <span style="color: rgb(255, 0, 0)">6.   1 tbsp dry red chilli flakes (paprika)</span>
-
-### <span style="color: rgb(255, 0, 0)">7.   2 tsp red chilli sauce</span>
-
-### <span style="color: rgb(255, 0, 0)">8.   2 tsp vinegar</span>
-
-### <span style="color: rgb(255, 0, 0)">9.   2 tbsp honey</span>
-
-### <span style="color: rgb(255, 0, 0)">10.   1/2 tsp sugar</span>
+### <span style="color: rgb(255, 0, 0)">5.   Oil (for deep frying)</span>
 
 
 
-## <span style="color: rgb(255, 0, 0)"> Ingredients for Garnishing</span>
+## <span style="color: rgb(255, 0, 0)"> Ingredients for Sauce</span>
 
 
 
@@ -51,3 +41,31 @@
 ### <span style="color: rgb(255, 0, 0)">8.   3 tsp white sesame seeds</span>
 
 ### <span style="color: rgb(255, 0, 0)">9.   2  tsp chilli sauce</span>
+
+
+
+## <span style="color: rgb(255, 0, 0)">Method to make Honey Chilli Potatoes</span>
+
+## <span style="color: rgb(255, 0, 0)">Prepare the Potaoes</span>
+
+
+
+### <span style="color: rgb(255, 0, 0)">STEP-1.  In a bowl, add cornflour or maida, salt and red chilli powder.</span>
+
+### <span style="color: rgb(255, 0, 0)">STEP-2.  Add the sliced potatoes and mix well until the potatoes are coated.</span>
+
+### <span style="color: rgb(255, 0, 0)">STEP-3.  Heat oil in a pan and deep fry the potatoes until golden. Keep aside.</span>
+
+
+
+## <span style="color: rgb(255, 0, 0)">Prepare the Sauce</span>
+
+
+
+### <span style="color: rgb(255, 0, 0)">STEP-1.  In a pan, add oil, garlic paste and spring onions. Saute on high heat for 1 minute.</span>
+
+### <span style="color: rgb(255, 0, 0)">STEP-2.  Add capsicum, honey, salt, soya sauce, chilli sauce. Saute for 2-3 minutes.</span>
+
+### <span style="color: rgb(255, 0, 0)">STEP-3.  Add the sesame seeds.</span>
+
+### <span style="color: rgb(255, 0, 0)">STEP-4.  Mix the fried potaotoes and sauce</span>
