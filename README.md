@@ -1,4 +1,4 @@
-# <span style="color: rgb(153, 153, 255)">                  Honey Chilli Potatoes Recipe </span>
+# <span style="color: rgb(0, 204, 255)">                  Honey Chilli Potatoes Recipe </span>
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-## <span style="color: rgb(217, 102, 255)">Method</span>
+## <span style="color: rgb(0, 98, 27)">Method</span>
 
 ## <span style="color: rgb(255, 143, 0)">Prepare the Potaoes</span>
 
@@ -74,4 +74,4 @@
 
 ### <span style="color: rgb(127, 0, 255)">STEP-3.  Add the sesame seeds.</span>
 
-### <span style="color: rgb(127, 0, 255)">STEP-4.  Mix the fried potaotoes and sauce</span>
+### <span style="color: rgb(127, 0, 255)">STEP-4.  Mix the fried potaotoes and sauce well and serve hot</span>
